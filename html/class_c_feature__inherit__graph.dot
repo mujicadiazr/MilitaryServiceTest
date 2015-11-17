@@ -1,0 +1,39 @@
+digraph "CFeature"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="CFeature",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="IComparable",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_i_comparable.html"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="CFeature1",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_c_feature1.html"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="CFeature10",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_c_feature10.html"];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="CFeature11",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_c_feature11.html"];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="CFeature12",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_c_feature12.html"];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="CFeature13",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_c_feature13.html"];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="CFeature14",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_c_feature14.html"];
+  Node1 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="CFeature15",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_c_feature15.html"];
+  Node1 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="CFeature2",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_c_feature2.html"];
+  Node1 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="CFeature3",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_c_feature3.html"];
+  Node1 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="CFeature4",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_c_feature4.html"];
+  Node1 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="CFeature5",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_c_feature5.html"];
+  Node1 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="CFeature6",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_c_feature6.html"];
+  Node1 -> Node15 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="CFeature7",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_c_feature7.html"];
+  Node1 -> Node16 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node16 [label="CFeature8",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_c_feature8.html"];
+  Node1 -> Node17 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node17 [label="CFeature9",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_c_feature9.html"];
+}

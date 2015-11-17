@@ -1,0 +1,12 @@
+digraph "bussines/CFeatures" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_4d4b9fee55c4b9a838fcef7eab53f435 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="bussines" fontname="Helvetica", fontsize="10", URL="dir_4d4b9fee55c4b9a838fcef7eab53f435.html"]
+  dir_1399a21d8fbcb29f7365b4fdff2e60fe [shape=box, label="CFeatures", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_1399a21d8fbcb29f7365b4fdff2e60fe.html"];
+  }
+  dir_bdd9a5d540de89e9fe90efdfc6973a4f [shape=box label="common" URL="dir_bdd9a5d540de89e9fe90efdfc6973a4f.html"];
+  dir_bdd9a5d540de89e9fe90efdfc6973a4f->dir_1399a21d8fbcb29f7365b4fdff2e60fe [headlabel="15", labeldistance=1.5 headhref="dir_000002_000001.html"];
+  dir_1399a21d8fbcb29f7365b4fdff2e60fe->dir_bdd9a5d540de89e9fe90efdfc6973a4f [headlabel="1", labeldistance=1.5 headhref="dir_000001_000002.html"];
+}

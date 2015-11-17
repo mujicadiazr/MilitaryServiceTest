@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['getallobject',['getAllObject',['../class_c_knowledge_d_b.html#acb892ba68c7679050b0933fe4b4b1720',1,'CKnowledgeDB']]],
+  ['getanalisispsicologico',['getAnalisisPsicologico',['../class_c_feature3.html#a85c234706053454f122f908750d5cc62',1,'CFeature3']]],
+  ['getasmaticocronico',['getAsmaticoCronico',['../class_c_feature10.html#a9b995d6c7113732cb382328d965c8e04',1,'CFeature10']]],
+  ['getcancer',['getCancer',['../class_c_feature15.html#a6034475079b4fe97d4759a343d52281b',1,'CFeature15']]],
+  ['getcardiopatia',['getCardiopatia',['../class_c_feature11.html#a9e12ffc0b144bd497557b2e53b28ce69',1,'CFeature11']]],
+  ['getclass',['getClass',['../class_c_object.html#afe7d8723f7d32826961b808509abcbb2',1,'CObject']]],
+  ['getfaltadeextremidades',['getFaltaDeExtremidades',['../class_c_feature9.html#a8e7d0930d8d674f5486ddf1b0fb14078',1,'CFeature9']]],
+  ['getfeature',['getFeature',['../class_c_object.html#a91358df7d8b4e5b7708c30596826f492',1,'CObject']]],
+  ['gethemorroides',['getHemorroides',['../class_c_feature13.html#a5c7386b1029f87ac3afe3ca7061fc194',1,'CFeature13']]],
+  ['getinstance',['getInstance',['../class_c_pattern_recongnition.html#a41ee408d7fb0965f84958e53c79ddb5c',1,'CPatternRecongnition']]],
+  ['getmedidavista',['getMedidaVista',['../class_c_feature2.html#aa6f6918fe38029a654207e8430925dce',1,'CFeature2']]],
+  ['getmigrana',['getMigrana',['../class_c_feature14.html#a0250394ddc02e31589c6a443888c18d3',1,'CFeature14']]],
+  ['getproblemadelhabla',['getProblemaDelHabla',['../class_c_feature8.html#a3af617c04751f9bba7a5dbad6532e0d8',1,'CFeature8']]],
+  ['getproblemaoido',['getProblemaOido',['../class_c_feature7.html#a5eeb4bc81990e7994a5103b3c4b9b659',1,'CFeature7']]],
+  ['getproblemasdigestivos',['getProblemasDigestivos',['../class_c_feature12.html#a93a86ead49dcb29625d66e031de8b870',1,'CFeature12']]],
+  ['getproblemaspiel',['getProblemasPiel',['../class_c_feature4.html#a3091536e04adefa14a9f230f253509ee',1,'CFeature4']]],
+  ['getproblematesticulos',['getProblemaTesticulos',['../class_c_feature5.html#a0794be64e0c25cadff653574cbae4e66',1,'CFeature5']]],
+  ['getpruebadental',['getPruebaDental',['../class_c_feature6.html#a117811db1979c2687b86772119c05394',1,'CFeature6']]],
+  ['gettestors',['getTestors',['../class_c_knowledge_d_b.html#a2f33bef40c3c18911153f30a590d92b1',1,'CKnowledgeDB']]]
+];

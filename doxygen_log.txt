@@ -1,0 +1,1447 @@
+Searching for include files...
+Searching for example files...
+Searching for images...
+Searching for dot files...
+Searching for msc files...
+Searching for files to exclude
+Searching for files to process...
+Searching for files in directory /home/aven/Qt projects/RP/trunk/MilitaryServiceTest
+Searching for files in directory /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines
+Searching for files in directory /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures
+Searching for files in directory /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/common
+Searching for files in directory /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/view
+Reading and parsing tag files
+Parsing files
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/cfeature.cpp...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/cfeature.cpp...
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/cfeature.h...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/cfeature.h...
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature1.cpp...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature1.cpp...
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature1.h...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature1.h...
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature10.cpp...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature10.cpp...
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature10.h...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature10.h...
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature11.cpp...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature11.cpp...
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature11.h...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature11.h...
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature12.cpp...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature12.cpp...
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature12.h...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature12.h...
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature13.cpp...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature13.cpp...
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature13.h...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature13.h...
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature14.cpp...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature14.cpp...
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature14.h...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature14.h...
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature15.cpp...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature15.cpp...
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature15.h...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature15.h...
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature2.cpp...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature2.cpp...
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature2.h...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature2.h...
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature3.cpp...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature3.cpp...
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature3.h...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature3.h...
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature4.cpp...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature4.cpp...
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature4.h...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature4.h...
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature5.cpp...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature5.cpp...
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature5.h...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature5.h...
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature6.cpp...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature6.cpp...
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature6.h...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature6.h...
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature7.cpp...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature7.cpp...
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature7.h...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature7.h...
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature8.cpp...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature8.cpp...
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature8.h...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature8.h...
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature9.cpp...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature9.cpp...
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature9.h...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/CFeatures/cfeature9.h...
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/cknowledgedb.cpp...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/cknowledgedb.cpp...
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/cknowledgedb.h...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/cknowledgedb.h...
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/cobject.cpp...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/cobject.cpp...
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/cobject.h...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/cobject.h...
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/cpatternrecongnition.cpp...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/cpatternrecongnition.cpp...
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/cpatternrecongnition.h...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/cpatternrecongnition.h...
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/icomparable.cpp...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/icomparable.cpp...
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/icomparable.h...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/bussines/icomparable.h...
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/common/cfactoryfeature.cpp...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/common/cfactoryfeature.cpp...
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/common/cfactoryfeature.h...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/common/cfactoryfeature.h...
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/common/enums.h...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/common/enums.h...
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/main.cpp...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/main.cpp...
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/view/militaryservicetestview.cpp...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/view/militaryservicetestview.cpp...
+Preprocessing /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/view/militaryservicetestview.h...
+Parsing file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/view/militaryservicetestview.h...
+Building group list...
+Building directory list...
+Building namespace list...
+Building file list...
+Building class list...
+Associating documentation with classes...
+Computing nesting relations for classes...
+Building example list...
+Searching for enumerations...
+Searching for documented typedefs...
+Searching for members imported via using declarations...
+Searching for included using directives...
+Searching for documented variables...
+Building interface member list...
+Building member list...
+Searching for friends...
+Searching for documented defines...
+Computing class inheritance relations...
+Computing class usage relations...
+Flushing cached template relations that have become invalid...
+Creating members for template instances...
+Computing class relations...
+Add enum values to enums...
+Searching for member function documentation...
+Building page list...
+Search for main page...
+Computing page relations...
+Determining the scope of groups...
+Sorting lists...
+Freeing entry tree
+Determining which enums are documented
+Computing member relations...
+Building full member lists recursively...
+Adding members to member groups.
+Computing member references...
+Inheriting documentation...
+Generating disk names...
+Adding source references...
+Adding xrefitems...
+Sorting member lists...
+Computing dependencies between directories...
+Generating citations page...
+Counting data structures...
+Resolving user defined references...
+Finding anchors and sections in the documentation...
+Transferring function references...
+Combining using relations...
+Adding members to index pages...
+Generating style sheet...
+Generating search indices...
+Generating example documentation...
+Generating file sources...
+Generating code for file bussines/cfeature.cpp...
+Generating code for file bussines/cfeature.h...
+Generating code for file bussines/CFeatures/cfeature1.cpp...
+Generating code for file bussines/CFeatures/cfeature1.h...
+Generating code for file bussines/CFeatures/cfeature10.cpp...
+Generating code for file bussines/CFeatures/cfeature10.h...
+Generating code for file bussines/CFeatures/cfeature11.cpp...
+Generating code for file bussines/CFeatures/cfeature11.h...
+Generating code for file bussines/CFeatures/cfeature12.cpp...
+Generating code for file bussines/CFeatures/cfeature12.h...
+Generating code for file bussines/CFeatures/cfeature13.cpp...
+Generating code for file bussines/CFeatures/cfeature13.h...
+Generating code for file bussines/CFeatures/cfeature14.cpp...
+Generating code for file bussines/CFeatures/cfeature14.h...
+Generating code for file bussines/CFeatures/cfeature15.cpp...
+Generating code for file bussines/CFeatures/cfeature15.h...
+Generating code for file bussines/CFeatures/cfeature2.cpp...
+Generating code for file bussines/CFeatures/cfeature2.h...
+Generating code for file bussines/CFeatures/cfeature3.cpp...
+Generating code for file bussines/CFeatures/cfeature3.h...
+Generating code for file bussines/CFeatures/cfeature4.cpp...
+Generating code for file bussines/CFeatures/cfeature4.h...
+Generating code for file bussines/CFeatures/cfeature5.cpp...
+Generating code for file bussines/CFeatures/cfeature5.h...
+Generating code for file bussines/CFeatures/cfeature6.cpp...
+Generating code for file bussines/CFeatures/cfeature6.h...
+Generating code for file bussines/CFeatures/cfeature7.cpp...
+Generating code for file bussines/CFeatures/cfeature7.h...
+Generating code for file bussines/CFeatures/cfeature8.cpp...
+Generating code for file bussines/CFeatures/cfeature8.h...
+Generating code for file bussines/CFeatures/cfeature9.cpp...
+Generating code for file bussines/CFeatures/cfeature9.h...
+Generating code for file bussines/cknowledgedb.cpp...
+Generating code for file bussines/cknowledgedb.h...
+Generating code for file bussines/cobject.cpp...
+Generating code for file bussines/cobject.h...
+Generating code for file bussines/cpatternrecongnition.cpp...
+Generating code for file bussines/cpatternrecongnition.h...
+Generating code for file bussines/icomparable.cpp...
+Generating code for file bussines/icomparable.h...
+Generating code for file common/cfactoryfeature.cpp...
+Generating code for file common/cfactoryfeature.h...
+Generating code for file common/enums.h...
+Generating code for file main.cpp...
+Generating code for file view/militaryservicetestview.cpp...
+Generating code for file view/militaryservicetestview.h...
+Generating file documentation...
+Generating docs for file bussines/cfeature.cpp...
+Generating docs for file bussines/cfeature.h...
+Generating docs for file bussines/CFeatures/cfeature1.cpp...
+Generating docs for file bussines/CFeatures/cfeature1.h...
+Generating docs for file bussines/CFeatures/cfeature10.cpp...
+Generating docs for file bussines/CFeatures/cfeature10.h...
+Generating docs for file bussines/CFeatures/cfeature11.cpp...
+Generating docs for file bussines/CFeatures/cfeature11.h...
+Generating docs for file bussines/CFeatures/cfeature12.cpp...
+Generating docs for file bussines/CFeatures/cfeature12.h...
+Generating docs for file bussines/CFeatures/cfeature13.cpp...
+Generating docs for file bussines/CFeatures/cfeature13.h...
+Generating docs for file bussines/CFeatures/cfeature14.cpp...
+Generating docs for file bussines/CFeatures/cfeature14.h...
+Generating docs for file bussines/CFeatures/cfeature15.cpp...
+Generating docs for file bussines/CFeatures/cfeature15.h...
+Generating docs for file bussines/CFeatures/cfeature2.cpp...
+Generating docs for file bussines/CFeatures/cfeature2.h...
+Generating docs for file bussines/CFeatures/cfeature3.cpp...
+Generating docs for file bussines/CFeatures/cfeature3.h...
+Generating docs for file bussines/CFeatures/cfeature4.cpp...
+Generating docs for file bussines/CFeatures/cfeature4.h...
+Generating docs for file bussines/CFeatures/cfeature5.cpp...
+Generating docs for file bussines/CFeatures/cfeature5.h...
+Generating docs for file bussines/CFeatures/cfeature6.cpp...
+Generating docs for file bussines/CFeatures/cfeature6.h...
+Generating docs for file bussines/CFeatures/cfeature7.cpp...
+Generating docs for file bussines/CFeatures/cfeature7.h...
+Generating docs for file bussines/CFeatures/cfeature8.cpp...
+Generating docs for file bussines/CFeatures/cfeature8.h...
+Generating docs for file bussines/CFeatures/cfeature9.cpp...
+Generating docs for file bussines/CFeatures/cfeature9.h...
+Generating docs for file bussines/cknowledgedb.cpp...
+Generating docs for file bussines/cknowledgedb.h...
+Generating docs for file bussines/cobject.cpp...
+Generating docs for file bussines/cobject.h...
+Generating docs for file bussines/cpatternrecongnition.cpp...
+Generating docs for file bussines/cpatternrecongnition.h...
+Generating docs for file bussines/icomparable.cpp...
+Generating docs for file bussines/icomparable.h...
+Generating docs for file common/cfactoryfeature.cpp...
+Generating docs for file common/cfactoryfeature.h...
+Generating docs for file common/enums.h...
+Generating docs for file main.cpp...
+Generating docs for file view/militaryservicetestview.cpp...
+Generating docs for file view/militaryservicetestview.h...
+Generating page documentation...
+Generating group documentation...
+Generating class documentation...
+Generating docs for compound CFactoryFeature...
+Generating docs for compound CFeature...
+Generating docs for compound CFeature1...
+Generating docs for compound CFeature10...
+Generating docs for compound CFeature11...
+Generating docs for compound CFeature12...
+Generating docs for compound CFeature13...
+Generating docs for compound CFeature14...
+Generating docs for compound CFeature15...
+Generating docs for compound CFeature2...
+Generating docs for compound CFeature3...
+Generating docs for compound CFeature4...
+Generating docs for compound CFeature5...
+Generating docs for compound CFeature6...
+Generating docs for compound CFeature7...
+Generating docs for compound CFeature8...
+Generating docs for compound CFeature9...
+Generating docs for compound CKnowledgeDB...
+Generating docs for compound CObject...
+Generating docs for compound CPatternRecongnition...
+Generating docs for compound IComparable...
+Generating docs for compound MilitaryServiceTestView...
+Generating namespace index...
+Generating docs for namespace Ui
+Generating graph info page...
+Generating directory documentation...
+Generating dependency graph for directory bussines
+Generating dependency graph for directory bussines/CFeatures
+Generating dependency graph for directory common
+Generating dependency graph for directory view
+Generating index page...
+Generating page index...
+Generating module index...
+Generating namespace index...
+Generating namespace member index...
+Generating annotated compound index...
+Generating alphabetical compound index...
+Generating hierarchical class index...
+Generating graphical class hierarchy...
+Generating member index...
+Generating file index...
+Generating file member index...
+Generating example index...
+finalizing index lists...
+Running dot...
+Generating dot graphs using 5 parallel threads...
+sh: 1: dot: not found
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature_8h__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature_8h__incl.pdf"'
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature_8cpp__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature_8cpp__incl.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature_8h__dep__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature_8h__dep__incl.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature_8cpp__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature_8cpp__incl.pdf"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature_8h__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature_8h__incl.png"'
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature_8h__dep__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature_8h__dep__incl.pdf"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature1_8cpp__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature1_8cpp__incl.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature1_8h__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature1_8h__incl.png"'
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature1_8cpp__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature1_8cpp__incl.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature1_8h__dep__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature1_8h__dep__incl.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature1_8h__dep__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature1_8h__dep__incl.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature1_8h__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature1_8h__incl.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature10_8cpp__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature10_8cpp__incl.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature10_8cpp__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature10_8cpp__incl.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature10_8h__dep__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature10_8h__dep__incl.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature10_8h__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature10_8h__incl.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature11_8cpp__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature11_8cpp__incl.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature10_8h__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature10_8h__incl.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature10_8h__dep__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature10_8h__dep__incl.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature11_8h__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature11_8h__incl.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature11_8cpp__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature11_8cpp__incl.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature12_8cpp__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature12_8cpp__incl.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature11_8h__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature11_8h__incl.pdf"'
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature11_8h__dep__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature11_8h__dep__incl.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature12_8cpp__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature12_8cpp__incl.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature11_8h__dep__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature11_8h__dep__incl.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature12_8h__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature12_8h__incl.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature12_8h__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature12_8h__incl.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature12_8h__dep__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature12_8h__dep__incl.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature12_8h__dep__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature12_8h__dep__incl.pdf"'
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature13_8h__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature13_8h__incl.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature13_8cpp__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature13_8cpp__incl.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature13_8cpp__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature13_8cpp__incl.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature13_8h__dep__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature13_8h__dep__incl.pdf"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature13_8h__dep__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature13_8h__dep__incl.png"'
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature13_8h__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature13_8h__incl.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature14_8cpp__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature14_8cpp__incl.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature14_8cpp__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature14_8cpp__incl.pdf"'
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature14_8h__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature14_8h__incl.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature14_8h__dep__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature14_8h__dep__incl.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature14_8h__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature14_8h__incl.pdf"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature15_8cpp__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature15_8cpp__incl.pdf"'
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature15_8h__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature15_8h__incl.pdf"'
+sh: 1: dot: not found
+sh: 1: dot: not foundError: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature15_8h__dep__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature15_8h__dep__incl.pdf"'
+
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature15_8h__dep__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature15_8h__dep__incl.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature2_8cpp__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature2_8cpp__incl.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature14_8h__dep__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature14_8h__dep__incl.pdf"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature2_8h__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature2_8h__incl.png"'
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature15_8h__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature15_8h__incl.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature15_8cpp__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature15_8cpp__incl.png"'
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature2_8cpp__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature2_8cpp__incl.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature2_8h__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature2_8h__incl.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature3_8cpp__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature3_8cpp__incl.pdf"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature2_8h__dep__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature2_8h__dep__incl.pdf"'
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature3_8h__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature3_8h__incl.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature3_8h__dep__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature3_8h__dep__incl.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature2_8h__dep__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature2_8h__dep__incl.png"'
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature3_8h__dep__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature3_8h__dep__incl.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature3_8cpp__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature3_8cpp__incl.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature4_8cpp__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature4_8cpp__incl.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature3_8h__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature3_8h__incl.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature4_8h__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature4_8h__incl.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature4_8h__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature4_8h__incl.pdf"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature4_8h__dep__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature4_8h__dep__incl.png"'
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature4_8cpp__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature4_8cpp__incl.pdf"'
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature4_8h__dep__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature4_8h__dep__incl.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature5_8cpp__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature5_8cpp__incl.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature5_8h__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature5_8h__incl.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature5_8cpp__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature5_8cpp__incl.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature6_8cpp__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature6_8cpp__incl.pdf"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+sh: 1: sh: 1: dot: not found
+dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature5_8h__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature5_8h__incl.png"'
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature5_8h__dep__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature5_8h__dep__incl.png"'
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature6_8cpp__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature6_8cpp__incl.png"'
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature6_8h__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature6_8h__incl.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature7_8cpp__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature7_8cpp__incl.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature6_8h__dep__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature6_8h__dep__incl.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature6_8h__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature6_8h__incl.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature5_8h__dep__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature5_8h__dep__incl.pdf"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature6_8h__dep__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature6_8h__dep__incl.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature7_8h__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature7_8h__incl.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature7_8h__dep__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature7_8h__dep__incl.png"'
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature7_8cpp__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature7_8cpp__incl.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature8_8h__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature8_8h__incl.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature7_8h__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature7_8h__incl.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature8_8cpp__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature8_8cpp__incl.pdf"'
+sh: 1: sh: 1: dot: not found
+dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature8_8cpp__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature8_8cpp__incl.png"'
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature8_8h__dep__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature8_8h__dep__incl.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature7_8h__dep__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature7_8h__dep__incl.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature8_8h__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature8_8h__incl.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature9_8cpp__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature9_8cpp__incl.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature9_8h__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature9_8h__incl.png"'
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature9_8h__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature9_8h__incl.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature8_8h__dep__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature8_8h__dep__incl.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature9_8h__dep__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature9_8h__dep__incl.pdf"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature9_8cpp__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfeature9_8cpp__incl.pdf"'
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature9_8h__dep__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature9_8h__dep__incl.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cknowledgedb_8cpp__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cknowledgedb_8cpp__incl.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cknowledgedb_8h__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cknowledgedb_8h__incl.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cknowledgedb_8h__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cknowledgedb_8h__incl.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cknowledgedb_8h__dep__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cknowledgedb_8h__dep__incl.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cobject_8cpp__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cobject_8cpp__incl.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cknowledgedb_8h__dep__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cknowledgedb_8h__dep__incl.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cobject_8h__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cobject_8h__incl.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cobject_8h__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cobject_8h__incl.pdf"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cobject_8cpp__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cobject_8cpp__incl.png"'
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cobject_8h__dep__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cobject_8h__dep__incl.pdf"'
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cknowledgedb_8cpp__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cknowledgedb_8cpp__incl.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cpatternrecongnition_8cpp__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cpatternrecongnition_8cpp__incl.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cpatternrecongnition_8cpp__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cpatternrecongnition_8cpp__incl.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cpatternrecongnition_8h__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cpatternrecongnition_8h__incl.png"'
+sh: 1: sh: 1: dot: not founddot: not found
+
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cpatternrecongnition_8h__dep__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cpatternrecongnition_8h__dep__incl.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cpatternrecongnition_8h__dep__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cpatternrecongnition_8h__dep__incl.png"'
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cpatternrecongnition_8h__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cpatternrecongnition_8h__incl.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/icomparable_8cpp__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/icomparable_8cpp__incl.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/icomparable_8h__dep__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/icomparable_8h__dep__incl.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/icomparable_8cpp__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/icomparable_8cpp__incl.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfactoryfeature_8cpp__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfactoryfeature_8cpp__incl.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfactoryfeature_8cpp__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfactoryfeature_8cpp__incl.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cobject_8h__dep__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cobject_8h__dep__incl.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfactoryfeature_8h__dep__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfactoryfeature_8h__dep__incl.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfactoryfeature_8h__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfactoryfeature_8h__incl.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfactoryfeature_8h__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfactoryfeature_8h__incl.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/enums_8h__dep__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/enums_8h__dep__incl.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/enums_8h__dep__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/enums_8h__dep__incl.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/icomparable_8h__dep__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/icomparable_8h__dep__incl.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/militaryservicetestview_8cpp__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/militaryservicetestview_8cpp__incl.png"'
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfactoryfeature_8h__dep__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/cfactoryfeature_8h__dep__incl.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/militaryservicetestview_8cpp__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/militaryservicetestview_8cpp__incl.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/main_8cpp__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/main_8cpp__incl.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/militaryservicetestview_8h__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/militaryservicetestview_8h__incl.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/militaryservicetestview_8h__dep__incl.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/militaryservicetestview_8h__dep__incl.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/militaryservicetestview_8h__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/militaryservicetestview_8h__incl.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/militaryservicetestview_8h__dep__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/militaryservicetestview_8h__dep__incl.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature__coll__graph.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature__coll__graph.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature__inherit__graph.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature__inherit__graph.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature1__inherit__graph.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature1__inherit__graph.png"'
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature__inherit__graph.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature__inherit__graph.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature__coll__graph.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature__coll__graph.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature1__coll__graph.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature1__coll__graph.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature1__inherit__graph.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature1__inherit__graph.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature10__inherit__graph.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature10__inherit__graph.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature10__inherit__graph.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature10__inherit__graph.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature10__coll__graph.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature10__coll__graph.pdf"'
+Running dot for graph 1/222
+Running dot for graph 2/222
+Running dot for graph 3/222
+Running dot for graph 4/222
+Running dot for graph 5/222
+Running dot for graph 6/222
+Running dot for graph 7/222
+Running dot for graph 8/222
+Running dot for graph 9/222
+Running dot for graph 10/222
+Running dot for graph 11/222
+Running dot for graph 12/222
+Running dot for graph 13/222
+Running dot for graph 14/222
+Running dot for graph 15/222
+Running dot for graph 16/222
+Running dot for graph 17/222
+Running dot for graph 18/222
+Running dot for graph 19/222
+Running dot for graph 20/222
+Running dot for graph 21/222
+Running dot for graph 22/222
+Running dot for graph 23/222
+Running dot for graph 24/222
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature11__inherit__graph.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature11__inherit__graph.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature10__coll__graph.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature10__coll__graph.png"'
+Running dot for graph 25/222
+Running dot for graph 26/222
+Running dot for graph 27/222
+Running dot for graph 28/222
+Running dot for graph 29/222
+Running dot for graph 30/222
+Running dot for graph 31/222
+Running dot for graph 32/222
+Running dot for graph 33/222
+Running dot for graph 34/222
+Running dot for graph 35/222
+Running dot for graph 36/222
+Running dot for graph 37/222
+Running dot for graph 38/222
+Running dot for graph 39/222
+Running dot for graph 40/222
+Running dot for graph 41/222
+Running dot for graph 42/222
+Running dot for graph 43/222
+Running dot for graph 44/222
+Running dot for graph 45/222
+Running dot for graph 46/222
+Running dot for graph 47/222
+Running dot for graph 48/222
+Running dot for graph 49/222
+Running dot for graph 50/222
+Running dot for graph 51/222
+Running dot for graph 52/222
+Running dot for graph 53/222
+Running dot for graph 54/222
+Running dot for graph 55/222
+Running dot for graph 56/222
+Running dot for graph 57/222
+Running dot for graph 58/222
+Running dot for graph 59/222
+Running dot for graph 60/222
+Running dot for graph 61/222
+Running dot for graph 62/222
+Running dot for graph 63/222
+Running dot for graph 64/222
+Running dot for graph 65/222
+Running dot for graph 66/222
+Running dot for graph 67/222
+Running dot for graph 68/222
+Running dot for graph 69/222
+Running dot for graph 70/222
+Running dot for graph 71/222
+Running dot for graph 72/222
+Running dot for graph 73/222
+Running dot for graph 74/222
+Running dot for graph 75/222
+Running dot for graph 76/222
+Running dot for graph 77/222
+Running dot for graph 78/222
+Running dot for graph 79/222
+Running dot for graph 80/222
+Running dot for graph 81/222
+Running dot for graph 82/222
+Running dot for graph 83/222
+Running dot for graph 84/222
+Running dot for graph 85/222
+Running dot for graph 86/222
+Running dot for graph 87/222
+Running dot for graph 88/222
+Running dot for graph 89/222
+Running dot for graph 90/222
+Running dot for graph 91/222
+Running dot for graph 92/222
+Running dot for graph 93/222
+Running dot for graph 94/222
+Running dot for graph 95/222
+Running dot for graph 96/222
+Running dot for graph 97/222
+Running dot for graph 98/222
+Running dot for graph 99/222
+Running dot for graph 100/222
+Running dot for graph 101/222
+Running dot for graph 102/222
+Running dot for graph 103/222
+Running dot for graph 104/222
+Running dot for graph 105/222
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/main_8cpp__incl.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/main_8cpp__incl.png"'
+Running dot for graph 106/222
+Running dot for graph 107/222
+Running dot for graph 108/222
+Running dot for graph 109/222
+Running dot for graph 110/222
+Running dot for graph 111/222
+Running dot for graph 112/222
+Running dot for graph 113/222
+Running dot for graph 114/222
+Running dot for graph 115/222
+Running dot for graph 116/222
+Running dot for graph 117/222
+Running dot for graph 118/222
+Running dot for graph 119/222
+Running dot for graph 120/222
+Running dot for graph 121/222
+Running dot for graph 122/222
+Running dot for graph 123/222
+Running dot for graph 124/222
+Running dot for graph 125/222
+Running dot for graph 126/222
+Running dot for graph 127/222
+Running dot for graph 128/222
+Running dot for graph 129/222
+Running dot for graph 130/222
+Running dot for graph 131/222
+Running dot for graph 132/222
+Running dot for graph 133/222
+Running dot for graph 134/222
+Running dot for graph 135/222
+Running dot for graph 136/222
+Running dot for graph 137/222
+Running dot for graph 138/222
+Running dot for graph 139/222
+Running dot for graph 140/222
+Running dot for graph 141/222
+Running dot for graph 142/222
+Running dot for graph 143/222
+Running dot for graph 144/222
+Running dot for graph 145/222
+Running dot for graph 146/222
+Running dot for graph 147/222
+Running dot for graph 148/222
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature11__inherit__graph.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature11__inherit__graph.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature1__coll__graph.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature1__coll__graph.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature12__inherit__graph.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature12__inherit__graph.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature11__coll__graph.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature11__coll__graph.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature11__coll__graph.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature11__coll__graph.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature12__inherit__graph.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature12__inherit__graph.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature13__inherit__graph.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature13__inherit__graph.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature12__coll__graph.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature12__coll__graph.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature13__coll__graph.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature13__coll__graph.pdf"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature12__coll__graph.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature12__coll__graph.png"'
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature13__inherit__graph.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature13__inherit__graph.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature13__coll__graph.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature13__coll__graph.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature14__inherit__graph.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature14__inherit__graph.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature14__inherit__graph.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature14__inherit__graph.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature14__coll__graph.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature14__coll__graph.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature15__inherit__graph.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature15__inherit__graph.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature15__coll__graph.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature15__coll__graph.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature15__coll__graph.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature15__coll__graph.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature14__coll__graph.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature14__coll__graph.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature2__inherit__graph.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature2__inherit__graph.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature15__inherit__graph.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature15__inherit__graph.png"'
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature2__coll__graph.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature2__coll__graph.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature3__inherit__graph.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature3__inherit__graph.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature2__inherit__graph.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature2__inherit__graph.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature3__coll__graph.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature3__coll__graph.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature3__inherit__graph.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature3__inherit__graph.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature3__coll__graph.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature3__coll__graph.pdf"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature4__inherit__graph.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature4__inherit__graph.png"'
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature4__inherit__graph.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature4__inherit__graph.pdf"'
+sh: 1: sh: 1: dot: not founddot: not found
+
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature4__coll__graph.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature4__coll__graph.png"'
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature4__coll__graph.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature4__coll__graph.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature5__inherit__graph.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature5__inherit__graph.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature2__coll__graph.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature2__coll__graph.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature5__inherit__graph.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature5__inherit__graph.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature5__coll__graph.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature5__coll__graph.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature6__inherit__graph.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature6__inherit__graph.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature6__inherit__graph.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature6__inherit__graph.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature5__coll__graph.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature5__coll__graph.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature7__inherit__graph.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature7__inherit__graph.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature6__coll__graph.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature6__coll__graph.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature7__coll__graph.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature7__coll__graph.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature8__inherit__graph.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature8__inherit__graph.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature7__coll__graph.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature7__coll__graph.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature8__inherit__graph.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature8__inherit__graph.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature6__coll__graph.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature6__coll__graph.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature9__inherit__graph.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature9__inherit__graph.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature8__coll__graph.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature8__coll__graph.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature9__coll__graph.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature9__coll__graph.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature9__inherit__graph.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature9__inherit__graph.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_object__inherit__graph.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_object__inherit__graph.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_object__inherit__graph.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_object__inherit__graph.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature8__coll__graph.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature8__coll__graph.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_object__coll__graph.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_object__coll__graph.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature9__coll__graph.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature9__coll__graph.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_i_comparable__inherit__graph.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_i_comparable__inherit__graph.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_object__coll__graph.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_object__coll__graph.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature7__inherit__graph.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_c_feature7__inherit__graph.pdf"'
+sh: 1: sh: 1: dot: not founddot: not found
+
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_i_comparable__inherit__graph.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_i_comparable__inherit__graph.pdf"'
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_military_service_test_view__inherit__graph.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_military_service_test_view__inherit__graph.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_military_service_test_view__coll__graph.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_military_service_test_view__coll__graph.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_military_service_test_view__inherit__graph.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_military_service_test_view__inherit__graph.pdf"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/dir_4d4b9fee55c4b9a838fcef7eab53f435_dep.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/dir_4d4b9fee55c4b9a838fcef7eab53f435_dep.png"'
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/dir_4d4b9fee55c4b9a838fcef7eab53f435_dep.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/dir_4d4b9fee55c4b9a838fcef7eab53f435_dep.pdf"'
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_military_service_test_view__coll__graph.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/class_military_service_test_view__coll__graph.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/dir_1399a21d8fbcb29f7365b4fdff2e60fe_dep.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/dir_1399a21d8fbcb29f7365b4fdff2e60fe_dep.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/graph_legend.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/graph_legend.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/dir_b2f003339c516cc00c8cadcafbe82f13_dep.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/dir_b2f003339c516cc00c8cadcafbe82f13_dep.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/dir_1399a21d8fbcb29f7365b4fdff2e60fe_dep.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/dir_1399a21d8fbcb29f7365b4fdff2e60fe_dep.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/dir_bdd9a5d540de89e9fe90efdfc6973a4f_dep.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/dir_bdd9a5d540de89e9fe90efdfc6973a4f_dep.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/dir_bdd9a5d540de89e9fe90efdfc6973a4f_dep.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/dir_bdd9a5d540de89e9fe90efdfc6973a4f_dep.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/inherit_graph_1.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/inherit_graph_1.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/dir_b2f003339c516cc00c8cadcafbe82f13_dep.dot" -Tpdf -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/latex/dir_b2f003339c516cc00c8cadcafbe82f13_dep.pdf"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/inherit_graph_0.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/inherit_graph_0.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/inherit_graph_3.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/inherit_graph_3.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/inherit_graph_2.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/inherit_graph_2.png"'
+sh: 1: dot: not found
+Error: Problems running dot: exit code=127, command='dot', arguments='"/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/inherit_graph_4.dot" -Tpng -o "/home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/inherit_graph_4.png"'
+Running dot for graph 149/222
+Running dot for graph 150/222
+Running dot for graph 151/222
+Running dot for graph 152/222
+Running dot for graph 153/222
+Running dot for graph 154/222
+Running dot for graph 155/222
+Running dot for graph 156/222
+Running dot for graph 157/222
+Running dot for graph 158/222
+Running dot for graph 159/222
+Running dot for graph 160/222
+Running dot for graph 161/222
+Running dot for graph 162/222
+Running dot for graph 163/222
+Running dot for graph 164/222
+Running dot for graph 165/222
+Running dot for graph 166/222
+Running dot for graph 167/222
+Running dot for graph 168/222
+Running dot for graph 169/222
+Running dot for graph 170/222
+Running dot for graph 171/222
+Running dot for graph 172/222
+Running dot for graph 173/222
+Running dot for graph 174/222
+Running dot for graph 175/222
+Running dot for graph 176/222
+Running dot for graph 177/222
+Running dot for graph 178/222
+Running dot for graph 179/222
+Running dot for graph 180/222
+Running dot for graph 181/222
+Running dot for graph 182/222
+Running dot for graph 183/222
+Running dot for graph 184/222
+Running dot for graph 185/222
+Running dot for graph 186/222
+Running dot for graph 187/222
+Running dot for graph 188/222
+Running dot for graph 189/222
+Running dot for graph 190/222
+Running dot for graph 191/222
+Running dot for graph 192/222
+Running dot for graph 193/222
+Running dot for graph 194/222
+Running dot for graph 195/222
+Running dot for graph 196/222
+Running dot for graph 197/222
+Running dot for graph 198/222
+Running dot for graph 199/222
+Running dot for graph 200/222
+Running dot for graph 201/222
+Running dot for graph 202/222
+Running dot for graph 203/222
+Running dot for graph 204/222
+Running dot for graph 205/222
+Running dot for graph 206/222
+Running dot for graph 207/222
+Running dot for graph 208/222
+Running dot for graph 209/222
+Running dot for graph 210/222
+Running dot for graph 211/222
+Running dot for graph 212/222
+Running dot for graph 213/222
+Running dot for graph 214/222
+Running dot for graph 215/222
+Running dot for graph 216/222
+Running dot for graph 217/222
+Running dot for graph 218/222
+Running dot for graph 219/222
+Running dot for graph 220/222
+Running dot for graph 221/222
+Running dot for graph 222/222
+Patching output file 1/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature_8cpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 2/139
+Patching output file 3/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature_8h__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature_8h__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 4/139
+Patching output file 5/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature1_8cpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 6/139
+Patching output file 7/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature1_8h__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature1_8h__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 8/139
+Patching output file 9/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature10_8cpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 10/139
+Patching output file 11/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature10_8h__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature10_8h__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 12/139
+Patching output file 13/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature11_8cpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 14/139
+Patching output file 15/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature11_8h__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature11_8h__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 16/139
+Patching output file 17/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature12_8cpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 18/139
+Patching output file 19/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature12_8h__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature12_8h__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 20/139
+Patching output file 21/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature13_8cpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 22/139
+Patching output file 23/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature13_8h__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature13_8h__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 24/139
+Patching output file 25/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature14_8cpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 26/139
+Patching output file 27/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature14_8h__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature14_8h__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 28/139
+Patching output file 29/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature15_8cpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 30/139
+Patching output file 31/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature15_8h__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature15_8h__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 32/139
+Patching output file 33/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature2_8cpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 34/139
+Patching output file 35/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature2_8h__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature2_8h__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 36/139
+Patching output file 37/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature3_8cpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 38/139
+Patching output file 39/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature3_8h__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature3_8h__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 40/139
+Patching output file 41/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature4_8cpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 42/139
+Patching output file 43/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature4_8h__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature4_8h__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 44/139
+Patching output file 45/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature5_8cpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 46/139
+Patching output file 47/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature5_8h__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature5_8h__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 48/139
+Patching output file 49/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature6_8cpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 50/139
+Patching output file 51/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature6_8h__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature6_8h__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 52/139
+Patching output file 53/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature7_8cpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 54/139
+Patching output file 55/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature7_8h__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature7_8h__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 56/139
+Patching output file 57/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature8_8cpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 58/139
+Patching output file 59/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature8_8h__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature8_8h__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 60/139
+Patching output file 61/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature9_8cpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 62/139
+Patching output file 63/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature9_8h__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfeature9_8h__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 64/139
+Patching output file 65/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cknowledgedb_8cpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 66/139
+Patching output file 67/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cknowledgedb_8h__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cknowledgedb_8h__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 68/139
+Patching output file 69/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cobject_8cpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 70/139
+Patching output file 71/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cobject_8h__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cobject_8h__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 72/139
+Patching output file 73/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cpatternrecongnition_8cpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 74/139
+Patching output file 75/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cpatternrecongnition_8h__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cpatternrecongnition_8h__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 76/139
+Patching output file 77/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/icomparable_8cpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 78/139
+Patching output file 79/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/icomparable_8h__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 80/139
+Patching output file 81/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfactoryfeature_8cpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 82/139
+Patching output file 83/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfactoryfeature_8h__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/cfactoryfeature_8h__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 84/139
+Patching output file 85/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/enums_8h__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 86/139
+Patching output file 87/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/main_8cpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 88/139
+Patching output file 89/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/militaryservicetestview_8cpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 90/139
+Patching output file 91/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/militaryservicetestview_8h__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/militaryservicetestview_8h__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 92/139
+Patching output file 93/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 94/139
+Patching output file 95/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature1__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature1__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 96/139
+Patching output file 97/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature10__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature10__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 98/139
+Patching output file 99/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature11__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature11__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 100/139
+Patching output file 101/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature12__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature12__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 102/139
+Patching output file 103/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature13__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature13__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 104/139
+Patching output file 105/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature14__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature14__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 106/139
+Patching output file 107/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature15__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature15__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 108/139
+Patching output file 109/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature2__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature2__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 110/139
+Patching output file 111/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature3__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature3__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 112/139
+Patching output file 113/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature4__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature4__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 114/139
+Patching output file 115/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature5__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature5__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 116/139
+Patching output file 117/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature6__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature6__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 118/139
+Patching output file 119/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature7__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature7__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 120/139
+Patching output file 121/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature8__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature8__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 122/139
+Patching output file 123/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature9__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_feature9__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 124/139
+Patching output file 125/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_object__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_c_object__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 126/139
+Patching output file 127/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_i_comparable__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 128/139
+Patching output file 129/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_military_service_test_view__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/class_military_service_test_view__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 130/139
+Patching output file 131/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/dir_4d4b9fee55c4b9a838fcef7eab53f435_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 132/139
+Patching output file 133/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/dir_1399a21d8fbcb29f7365b4fdff2e60fe_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 134/139
+Patching output file 135/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/dir_bdd9a5d540de89e9fe90efdfc6973a4f_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 136/139
+Patching output file 137/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/dir_b2f003339c516cc00c8cadcafbe82f13_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Patching output file 138/139
+Patching output file 139/139
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/inherit_graph_0.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/inherit_graph_1.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/inherit_graph_2.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/inherit_graph_3.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+Error: problems opening map file /home/aven/Qt projects/RP/trunk/MilitaryServiceTest/html/inherit_graph_4.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+lookup cache used 250/65536 hits=1322 misses=262
+finished...
+*** Doxygen has finished

@@ -1,0 +1,28 @@
+digraph "common/enums.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="common/enums.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node2 [label="bussines/CFeatures\l/cfeature3.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$cfeature3_8h.html"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node3 [label="bussines/CFeatures\l/cfeature3.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$cfeature3_8cpp.html"];
+  Node2 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node4 [label="common/cfactoryfeature.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$cfactoryfeature_8h.html"];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node5 [label="bussines/cknowledgedb.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$cknowledgedb_8h.html"];
+  Node5 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node6 [label="bussines/cknowledgedb.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$cknowledgedb_8cpp.html"];
+  Node5 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node7 [label="bussines/cpatternrecongnition.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$cpatternrecongnition_8h.html"];
+  Node7 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node8 [label="bussines/cpatternrecongnition.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$cpatternrecongnition_8cpp.html"];
+  Node4 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node9 [label="common/cfactoryfeature.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$cfactoryfeature_8cpp.html"];
+  Node1 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node10 [label="bussines/cobject.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$cobject_8h.html"];
+  Node10 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node10 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+  Node11 [label="bussines/cobject.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$cobject_8cpp.html"];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid"];
+}
